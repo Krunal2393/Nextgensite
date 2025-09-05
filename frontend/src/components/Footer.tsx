@@ -61,7 +61,7 @@ export default function Footer() {
           {/* Logo area */}
           <div className="flex items-center gap-3">
             <img
-              src="src/assets/logo.png"
+              src="/logo.png"
               alt="Next-Gen logo"
               width={100}
               height={100}

@@ -58,7 +58,7 @@ export const ResponsiveNavbar: React.FC = () => {
       <div className="relative max-w-6xl mx-4  sm:mx-8 lg:mx-52 flex items-center justify-between py-4 ">
         {/* Logo */}
         <a href="/" className="flex items-center gap-2">
-          <img src="src/assets/logo.png" alt="Next-Gen Logo" className="h-8" />
+          <img src="/logo.png" alt="Next-Gen Logo" className="h-8" />
         </a>
 
         <div className="flex items-center gap-3">

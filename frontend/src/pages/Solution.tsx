@@ -30,11 +30,7 @@ export default function Solution() {
 
           {/* Right Image */}
           <div className="bg-white rounded-xl w-full md:w-[50%] px-2 py-2 flex items-center justify-center mt-6 md:mt-0">
-            <img
-              src="src/assets/contact.png"
-              className="w-32 md:w-2xs"
-              alt="contact"
-            />
+            <img src="/contact.png" className="w-32 md:w-2xs" alt="contact" />
           </div>
         </div>
       </section>
